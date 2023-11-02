@@ -1,4 +1,7 @@
-# Power-BI-Sales-Analysis
+# Power BI Sales Analysis
+
+![032811bestbuy](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/assets/69379730/8dd83410-bbc9-4b72-91fb-3b43d3fb9ab5)
+
 
 ## Introduction
 
