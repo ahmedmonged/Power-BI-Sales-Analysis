@@ -8,6 +8,12 @@
 The sales department in a company that sells tech products, needs their data to be analyzed. For their sales team to be able to make the right decisions based on the trends of the product's sales and analyze customer behavior
 In this project, we going to accomplish Sales Analysis and other different tasks only using Power BI
 
+## About Data
+
+1.	The dataset showing the sales of tech products over 2 years (2008 and 2009) for different products and customers in different countries. 
+2.	Also there is a forecast data on the level of brand and country for the total year of 2009.
+
+
 ## Setup
 Since we are going to accomplish these tasks only using Power BI the only tool we will use is Power BI Which makes sense right xD
 
