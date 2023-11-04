@@ -15,7 +15,7 @@ In this project, we going to accomplish Sales Analysis and other different tasks
 
 
 ## Setup
-Since we are going to accomplish these tasks only using Power BI the only tool we will use is Power BI Which makes sense right xD
+Since we are going to accomplish these tasks only using Power BI you need to have [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## Tasks Accomplished
 - Connected Data to Power BI
@@ -30,3 +30,19 @@ Since we are going to accomplish these tasks only using Power BI the only tool w
 - Built Dashboard that covers all questions that may be asked
 - Chose the appropriate chart type that best illustrates the point
 - Added features like Slices and Drill downs
+
+--------------------------------------------------------------------------
+
+  
+### Files
+
+- [Sales Analysis.pbix](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Sales%20Analysis.pbix) : The original file that contains all work.
+- [Dashboard.pdf](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Dashboard.pdf) : The Dashboard in PDF formate.
+- [Schema.pdf](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Schema.pdf) : Schema in PDF formate.
+- [Sales Data.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Sales%20Data.xlsx) : Sales data that contains all orders from 2008 to 2009.
+- [Customers.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Customers.xlsx) : Data that have Details about Customers.
+- [Forecasted Data.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Forecasted%20Data.xlsx) : Forecasted data of 2009.
+- [Products.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Products.xlsx) : Data that have Details about Products.
+
+
+
