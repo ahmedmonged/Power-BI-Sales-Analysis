@@ -37,8 +37,8 @@ Since we are going to accomplish these tasks only using Power BI you need to hav
 ### Files
 
 - [Sales Analysis.pbix](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Sales%20Analysis.pbix) : The original file that contains all work.
-- [Dashboard.pdf](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Dashboard.pdf) : The Dashboard in PDF formate.
-- [Schema.pdf](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Schema.pdf) : Schema in PDF formate.
+- [Dashboard.png](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Dashboard.png) : The Dashboard in png formate.
+- [Schema.png](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Output%20Files/Schema.png) : Schema in png formate.
 - [Sales Data.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Sales%20Data.xlsx) : Sales data that contains all orders from 2008 to 2009.
 - [Customers.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Customers.xlsx) : Data that have Details about Customers.
 - [Forecasted Data.xlsx](https://github.com/ahmedmonged/Power-BI-Sales-Analysis/blob/main/Data/Forecasted%20Data.xlsx) : Forecasted data of 2009.
